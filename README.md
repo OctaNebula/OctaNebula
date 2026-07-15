@@ -12,12 +12,26 @@ i make Roblox games and write code.
 
 ---
 
+## whoami
+
+```text
+octavian@octanebula.dev
+-----------------------
+os        arch linux
+wm        hyprland (see cyberpunk-dotfiles)
+uptime    19 years
+location  croatia
+uni       FER, university of zagreb
+work      topline studios (co-owner) · marmot's oven (ui design)
+langs     luau, C, python, javascript
+editor    roblox studio, mostly
+status    probably tweaking dotfiles at 2am
+```
+
 ## games
 
-| | |
-|---|---|
-| [**MAFIA**](https://www.roblox.com/games/113232329524315/MAFIA) | 1920s asymmetrical noir murder mystery on Roblox. **46.1M+ visits.** |
-| [**Steel Crossfire**](https://www.roblox.com/games/133197203959042/Steel-Crossfire) | UI design. bunch of menus, shop screens, event UI. **43.7M+ visits.** |
+- **[MAFIA](https://www.roblox.com/games/113232329524315/MAFIA)**: 1920s asymmetrical noir murder mystery on Roblox. **46.1M+ visits**
+- **[Steel Crossfire](https://www.roblox.com/games/133197203959042/Steel-Crossfire)**: UI design. bunch of menus, shop screens, event UI. **43.7M+ visits**
 
 ## the sauce
 
@@ -37,16 +51,3 @@ i make Roblox games and write code.
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/arch-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/hyprland-58E1FF?style=flat&logo=hyprland&logoColor=black)
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=octanebula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
-  <img alt="github stats" src="https://github-readme-stats.vercel.app/api?username=octanebula&show_icons=true&hide_border=true&bg_color=00000000">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=octanebula&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
-  <img alt="top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octanebula&layout=compact&hide_border=true&bg_color=00000000">
-</picture>
-
-</div>
