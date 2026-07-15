@@ -51,3 +51,18 @@ status    probably tweaking dotfiles at 2am
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Arch Linux](https://img.shields.io/badge/arch-1793D1?style=flat&logo=archlinux&logoColor=white)
 ![Hyprland](https://img.shields.io/badge/hyprland-58E1FF?style=flat&logo=hyprland&logoColor=black)
+
+## stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=octanebula&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000">
+  <img alt="github stats" src="https://github-stats-extended.vercel.app/api?username=octanebula&show_icons=true&hide_border=true&bg_color=00000000">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=octanebula&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000">
+  <img alt="top languages" src="https://github-stats-extended.vercel.app/api/top-langs/?username=octanebula&layout=compact&hide_border=true&bg_color=00000000">
+</picture>
+
+</div>
