@@ -21,7 +21,7 @@ os        arch linux
 wm        hyprland (see cyberpunk-dotfiles)
 uptime    19 years
 location  croatia
-uni       FER, university of zagreb
+uni       EEMCS, delft university of technology
 work      topline studios (co-owner) · marmot's oven (ui design)
 langs     luau, C, python, javascript
 editor    roblox studio, mostly
