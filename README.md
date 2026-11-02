@@ -2,7 +2,7 @@
 
 # octavian
 
-**19, CS undergrad in Croatia.**
+**20, CS undergrad in Croatia.**
 co-owner of [Topline Studios](https://www.roblox.com/communities/5670504/TOPLINE-STUDIOS-INC), UI designer at [Marmot's Oven](https://www.roblox.com/communities/33895110/Marmots-Oven).
 i make Roblox games and write code.
 
@@ -19,7 +19,7 @@ octavian@octanebula.dev
 -----------------------
 os        arch linux
 wm        hyprland (see cyberpunk-dotfiles)
-uptime    19 years
+uptime    20 years
 location  croatia
 uni       EEMCS, delft university of technology
 work      topline studios (co-owner) · marmot's oven (ui design)
